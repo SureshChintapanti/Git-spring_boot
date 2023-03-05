@@ -5,3 +5,4 @@ create table if not exists playlist(
         singer varchar(255),
         musicDirector varchar(255)
 );
+
